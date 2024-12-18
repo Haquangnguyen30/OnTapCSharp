@@ -1,0 +1,10 @@
+D:\DemoPL\C#Project\CodeOnTap\bin\Debug\CodeOnTap.exe.config
+D:\DemoPL\C#Project\CodeOnTap\bin\Debug\CodeOnTap.exe
+D:\DemoPL\C#Project\CodeOnTap\bin\Debug\CodeOnTap.pdb
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.csproj.AssemblyReference.cache
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.Form1.resources
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.Properties.Resources.resources
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.csproj.GenerateResource.cache
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.csproj.CoreCompileInputs.cache
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.exe
+D:\DemoPL\C#Project\CodeOnTap\obj\Debug\CodeOnTap.pdb
