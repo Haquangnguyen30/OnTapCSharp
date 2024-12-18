@@ -9,6 +9,6 @@ namespace CodeOnTap
 {
     internal class DataBaseConnect
     {
-        protected SqlConnection _conn = new SqlConnection("Data Source=WINDOWS-10\\SQLEXPRESS;Initial Catalog=DoAnCSharp;Integrated Security=True");
+        protected SqlConnection _conn = new SqlConnection("Data Source=DESKTOP-EVA6OFD\\SQLEXPRESS;Initial Catalog=DoAnCSharp;Integrated Security=True");
     }
 }
